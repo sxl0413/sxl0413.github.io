@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Bugku 签到题 WriteUp"
+date: 2026-09-12
+---
 # Bugku CTF - [滑稽] Writeup
 
 ## 一、题目信息
